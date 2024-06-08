@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670108544177",
+    "project_id": "zeptodemo-fa0e6",
+    "storage_bucket": "zeptodemo-fa0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670108544177:android:e39d762470d964e2dbc690",
+        "android_client_info": {
+          "package_name": "com.kapturrn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kxcw-JVCE2ngkR4kJ6YXJUZSg5iO5eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
